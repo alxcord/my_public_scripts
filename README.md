@@ -1,2 +1,2 @@
 # my_public_scripts
-Uma coleção de scripts que uso no dia a dia seja SQL, Python, etc. Use por conta e risco...
+Uma coleção de scripts de uso geral/referência seja SQL, Python, etc.
